@@ -1,0 +1,36 @@
+* {
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #000000;
+    text-decoration: none;}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    }
+
+button {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #cc00ff;
+    border-radius: 5px;
+    color: #9604bb;
+    font-weight: bold;
+    transition: .7s;
+}
+
+button:hover {
+    background-color: #cc00ff;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.contact {
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
